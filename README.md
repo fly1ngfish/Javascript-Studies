@@ -6,6 +6,6 @@ It's a space to track my learning and practice what I'm studying through tutoria
 ## 📂 Structure
 
 - `topics/`: Core concepts like variables, functions, arrays, etc.
-  - `topics/exercises/`: Basic exercises related to each topic (e.g., if statements, loops, arrays).
+  - `topics/.../exercises/`: Basic exercises related to each topic (e.g., if statements, loops, arrays).
 - `projects/`: Mini projects and coding challenges (like rock-paper-scissors).
 - `notes/`: Written notes or summaries of what I've been learning.
